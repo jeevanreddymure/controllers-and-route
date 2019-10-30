@@ -11,6 +11,10 @@ let user = [{
     name:"kamal",
     age:"22"
 
+},{
+    id:"4",
+    name:"praneeth",
+    age:"24"
 }
 ]
 app.get('/findall',(req,res)=>{
